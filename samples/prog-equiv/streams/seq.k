@@ -108,13 +108,6 @@ module STREAM-SYNTAX
 endmodule
 
 
-/*!
-\setlength{\parindent}{1em}
-\title{PEQ (Program Equivalence)}
-\author{Dorel Lucanu (\texttt{dlucanu@info.uaic.ro}) and Vlad Rusu (Vlad.Rusu@inria.fr)}
-\organization{"Alexandru Ioan Cuza" University of Iasi, INRIA Lille}
-*/
-
 //@ \section{Symbolic Maps}
 
 module SYMBOLIC-DOMAIN
