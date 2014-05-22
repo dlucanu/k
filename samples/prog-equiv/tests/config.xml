@@ -1,0 +1,13 @@
+<!--
+  Testing the prototype for equivalence of programs w.r.t. the approach
+  from IFM 2013.
+-->
+
+
+ <tests>
+
+  <include file="../imp/tests/config.xml" directory="1_k" />
+  <include file="../streams/tests/config.xml" directory="2_languages" />
+
+</tests>
+
