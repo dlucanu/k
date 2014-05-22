@@ -7,7 +7,7 @@
 
 
   <test
-      definition="peq.k"
+      definition="../peq.k"
       programs="../programs"
       extension="peq"
       results="../programs" >
