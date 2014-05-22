@@ -6,9 +6,9 @@
 
   <test
       definition="seq.k"
-      programs="programs"
+      programs="../programs"
       extension="seq"
-      results="programs" >
+      results="../programs" >
       <all-programs>
         <krun-option name="--color" value="off" />
       </all-programs>

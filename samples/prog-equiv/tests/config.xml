@@ -6,8 +6,8 @@
 
  <tests>
 
-  <include file="../imp/tests/config.xml" directory="1_k" />
-  <include file="../streams/tests/config.xml" directory="2_languages" />
+  <include file="../imp/tests/config.xml" directory="../imp" />
+  <include file="../streams/tests/config.xml" directory="../streams" />
 
 </tests>
 
